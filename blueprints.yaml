@@ -1,0 +1,18 @@
+name: DeliverNext Child Theme
+slug: delivernext_child
+type: theme
+version: 1.0.0
+description: DeliverNext theme is a port of the original Deliver Grav theme.
+icon:  microchip
+author:
+  name: Pedro Moreno
+  email: pmoreno@pmdesign.dev
+  url: 
+homepage: https://github.com/pmoreno-rodriguez/grav-theme-delivernext
+demo: https://delivernext.pmdesign.dev
+keywords: deliver, theme, modern, fast, responsive, html5, css3
+bugs: https://github.com/pmoreno-rodriguez/grav-theme-delivernext/issues
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.7.0' }
