@@ -16,3 +16,14 @@ license: MIT
 
 dependencies:
   - { name: grav, version: '>=1.7.0' }
+  - { name: delivernext, version: '>=1.4.2' }
+
+extends@:
+  type: delivernext/blueprints
+  context: themes://
+
+#form:
+  #validation: loose
+  #fields:
+
+  # Additional fields can be added here
